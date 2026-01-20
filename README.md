@@ -1,2 +1,0 @@
-# FastInstallModulev16
-Odoo
